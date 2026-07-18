@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^1.12.2",
-    "mahmud-fca": "^1.0.10",
+    "mahmud-fca": "^2.0.7",
     "bcrypt": "^5.0.1",
     "canvas": "^3.2.0",
     "@napi-rs/canvas": "^0.1.80",
