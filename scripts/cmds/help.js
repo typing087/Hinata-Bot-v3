@@ -5,7 +5,7 @@ module.exports = {
         config: {
                 name: "help",
                 version: "1.7",
-                author: "MahMUD",
+                author: "TypinG",
                 countDown: 5,
                 role: 0,
                 shortDescription: {
@@ -63,7 +63,7 @@ module.exports = {
                                        `Type ${prefix}help <cmd> to see details.`;
 
                         msg += `\n\n⭔ Total Commands: ${totalCommands}\n⭔ ${helpHint}\n`;
-                        msg += `\n╭─✦ ADMIN: MahMUD 彡\n├‣ WHATSAPP\n╰‣ 01836298139`;
+                        msg += `\n╭─✦ ADMIN: TypinG 彡\n├‣ Call\n╰‣ +8809638427554;
 
                         try {
                                 const hh = await message.reply({ body: msg });
